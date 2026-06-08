@@ -1,0 +1,55 @@
+﻿body {
+    background: #f5f7fb;
+    font-family: 'Segoe UI',sans-serif;
+}
+
+.hero {
+    background: linear-gradient(135deg,#2563eb,#1e40af);
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+    .hero h1 {
+        font-size: 60px;
+        font-weight: bold;
+    }
+
+.card-custom {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.exam-card {
+    border-radius: 15px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 5px 15px rgba(0,0,0,.1);
+    margin-bottom: 20px;
+}
+
+.timer {
+    font-size: 28px;
+    font-weight: bold;
+    color: red;
+}
+
+.result-box {
+    text-align: center;
+    padding: 50px;
+}
+
+.pass {
+    color: green;
+    font-size: 30px;
+}
+
+.fail {
+    color: red;
+    font-size: 30px;
+}

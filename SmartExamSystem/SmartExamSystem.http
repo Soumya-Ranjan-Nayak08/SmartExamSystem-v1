@@ -1,0 +1,6 @@
+@SmartExamSystem_HostAddress = http://localhost:5098
+
+GET {{SmartExamSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
